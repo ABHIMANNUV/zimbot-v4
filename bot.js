@@ -33,17 +33,17 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['918447595871',''] //owner number +27634090203
+global.wame = ['918447595871'] 
+global.pemilik = ['918447595871'] //owner number +27634090203
+global.premium = ['918447595871'] //premium number +27634090203
+global.pengguna = '𝐀𝐁𝐇𝐈𝐌𝐀𝐍𝐍𝐔' //username
+global.footer = ' 𝐌𝐀𝐍𝐍𝐔 BOT INC'
+global.botnma = '𝐌𝐀𝐍𝐍𝐔 BOT INC' //bot name
+global.botname = '𝐀𝐉 BOT V4'
+global.ownernma = '𝐀𝐉 𝐈𝐒 𝐘𝐎𝐔𝐑 𝐇𝐄𝐀𝐑𝐓𝐁𝐄𝐀𝐓' //owner name
+global.packname = '𝐀𝐁𝐇𝐈𝐌𝐀𝐍𝐍𝐔' //sticker package name
+global.author = 'By 𝐌𝐀𝐍𝐍𝐔 Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
